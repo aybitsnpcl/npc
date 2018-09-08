@@ -1,0 +1,2 @@
+# npc
+aybits_npcl
